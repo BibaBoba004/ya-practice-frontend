@@ -7,9 +7,16 @@
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', 'Arial', sans-serif;
-
+  
 }
 
+html {
+  filter: invert(1);
+}
+
+image {
+  filter: invert(1);
+}
 
 
 .header {
